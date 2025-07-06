@@ -7,7 +7,7 @@ This project represents an academic research into deep learning-based facial emo
 
 ##  Objective
 
-To develop a facial emotion recognition system capable of identifying emotions such as anger, happiness, sadness, surprise, and neutrality from grayscale facial images using CNNs.
+To develop a facial emotion recognition system capable of identifying emotions such as anger, happiness, sadness, surprise, and neutrality from grayscale facial images using CNNs and compare different models on it.
 
 ---
 
@@ -56,7 +56,7 @@ We compared our custom CNN with five advanced models on the same dataset:
 | Pyramidal Net | 89.32%        | Moderate performance               |
 | VGG16         | ~25.9%        | Performance needs tuning                   |
 
-📚 **Reference Papers:**
+ **Reference Papers:**
 - [Base Paper](https://iopscience.iop.org/article/10.1088/1742-6596/1962/1/012040/pdf)
 - [Paper 1](https://iopscience.iop.org/article/10.1088/1742-6596/2236/1/012004/pdf)
 - [Paper 2](https://iopscience.iop.org/article/10.1088/1361-6501/ad191c)
@@ -66,7 +66,7 @@ We compared our custom CNN with five advanced models on the same dataset:
 
 ---
 
-## 🧪 Evaluation
+## Evaluation
 
 - **Confusion Matrix**
 - **Classification Report**
